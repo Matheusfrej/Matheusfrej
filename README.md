@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Matheus Frej</h1>
 <h3 align="center">A Computer Science student at <a href="https://portal.cin.ufpe.br/">CIn-UFPE</a></h3>
 
+<h4 align="center">I'm currently studying React <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/> </h4>
+
+
 <div align="center">
   <a href="https://github.com/matheusfrej">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusfrej&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="80%">
