@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Matheus Frej</h1>
 <h3 align="center">A Computer Science student at <a href="https://portal.cin.ufpe.br/">CIn-UFPE</a></h3>
 
-<h4 align="center">I'm interested in Front-end Development 
+<h4 align="center">I'm interested in Fullstack Development 
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/> 
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
