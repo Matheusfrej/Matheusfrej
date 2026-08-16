@@ -14,20 +14,15 @@
 
 ### 🛠️ Technologies & Tools
 
-**Languages:**  
-Python · TypeScript · JavaScript · Java · SQL · PL/SQL
+**Languages:**  Python · TypeScript · JavaScript · Java · SQL · PL/SQL
 
-**Frontend:**  
-React · Vue.js · Next.js · HTML · CSS
+**Frontend:**  React · Vue.js · Next.js · HTML · CSS
 
-**Backend:**  
-Node.js · Express · Spring Boot · REST · GraphQL
+**Backend:**  Node.js · Express · Spring Boot · REST · GraphQL
 
-**DevOps & Infrastructure:**  
-Linux · Docker · Kubernetes · Apache Kafka · CI/CD · Git
+**DevOps & Infrastructure:**  Linux · Docker · Kubernetes · Apache Kafka · CI/CD · Git
 
-**Databases:**  
-PostgreSQL · Oracle
+**Databases:**  PostgreSQL · Oracle
 
 ---
 
